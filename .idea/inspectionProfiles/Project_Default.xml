@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="obspython" />
+          <option value="studio_director.overlays.views.overlays" />
+          <option value="overlays.models.TextStyling.*" />
+          <option value="type.with_ui" />
+          <option value="pyodbc" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
